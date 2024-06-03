@@ -5,7 +5,7 @@
 
 
 # directories
-ref="/ijc/LABS/MERKEL/DATA/PROJECTS/idevillasante/20221005_MGraupera_PIK3CA-Var/RNAseq/manual/references"
+ref="/ijc/LABS/MERKEL/DATA/PROJECTS/idevillasante/20221005_MGraupera_PIK3CA-Var/RNAseq/manual/references/h38.fa"
 results="/mnt/beegfs/mvilardell/manual_RNAseq/other_analysis/results"
 
 if false
