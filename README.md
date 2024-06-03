@@ -36,7 +36,11 @@ To start: Reads generated with NGS (FASTQ format).
 ## TOOLS: 
 
 FASTQC: quality control.
+
 SAMTools: managment of SAM files.
+
 GATK: Tool for the analysis of variant calling. Covers from mark duplicate reads untill variant annotation steps. 
+
 ANNOVAR: software for annotation variants.
+
 BCFtools: Managment of VCF files.
