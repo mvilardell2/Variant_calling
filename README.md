@@ -20,13 +20,15 @@ To start: Reads generated with NGS (FASTQ format).
    
    - Obtain a VCF file --> Merge multiple samples with bcftools.
 
-8. VARIANT FILTRATION
+8. SELECT SNPS or INDELS
+
+9. VARIANT FILTRATION
 
    - Variant Quality Score Recalibration and ApplyVQSR
    
    - Hard Filtering using GATK VariantFiltration: filtering based on custom quality criteria such as sequencing depth, mapping quality etc. 
   
-9. VARIANT ANNOTATION
+10. VARIANT ANNOTATION
   
    
 
