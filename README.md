@@ -8,7 +8,7 @@ To start: Reads generated with NGS (FASTQ format).
 
 1. QUALITY CONTROL: FASTQC
 2. ALIGNMENT:
-      
+   
    Genome of reference---> Create a Genome INDEX
 3. SORT ALIGNMENTS and generate metrics.
 4. MARK DUPLICATE READS: Flag duplicated reads so in downstream analysis, GATK can ignore these reads. 
@@ -38,6 +38,8 @@ To start: Reads generated with NGS (FASTQ format).
 ## TOOLS: 
 
 FASTQC: quality control.
+
+STAR: Alignment to reference genome.
 
 SAMTools: managment of SAM files.
 
